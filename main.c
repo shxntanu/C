@@ -6,7 +6,7 @@
 #define MAX_INPUT 100
 
 void print_menu() {
-  printf("\nGeneric Data Structures CLI\n");
+  printf("\nData Structures CLI\n");
   printf("1. Singly Linked List\n");
   printf("0. Exit\n");
   printf("Enter your choice: ");
@@ -26,7 +26,7 @@ int main() {
       sll_int_menu();
       break;
     case 0:
-      printf("Thank you for using Generic Data Structures CLI. Goodbye!\n");
+      printf("Thank you for using Data Structures CLI. Goodbye!\n");
       return 0;
     default:
       printf("Invalid choice. Please try again.\n");
