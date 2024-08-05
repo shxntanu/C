@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C
+# Collection of Programs in C
 
 This project aims to provide a comprehensive collection of data structures and algorithms implemented in the C programming language.
 
