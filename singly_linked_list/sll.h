@@ -22,4 +22,6 @@
   size_t sll_##T##_size(sll_##T *list);                                        \
   int sll_##T##_is_empty(sll_##T *list);
 
+void sll_int_menu();
+
 #endif // SLL_H
